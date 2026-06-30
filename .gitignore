@@ -1,0 +1,9 @@
+*.class
+
+.vscode/
+
+bin/
+
+out/
+
+*.logs
